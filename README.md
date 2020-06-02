@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/artanri72/Interview_processing/blob/master/31350272.png" alt="AdaptApps Logo" width="100" height="100">
+<img src="https://raw.githubusercontent.com/artanri72/Interview_processing/master/31350272.png" alt="AdaptApps Logo" width="100" height="100">
 
 # AdaptApps Interview. 
 
