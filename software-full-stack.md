@@ -1,8 +1,6 @@
-<!-- <img src="https://raw.githubusercontent.com/hackerbay/interview/master/31350272.png" alt="AdaptApps Logo" width="100" height="100"> -->
+# Full Stack Developer Interview at AdaptApps. 
 
-# Full Stack Developer Interview at HackerBay. 
-
-Thank you for interviewing with HackerBay. Please note this is a full time job and you’re required to work 40 hrs/week. You’ll not be legally allowed to work for anyone else when you’re working with us. 
+Thank you for interviewing with AdaptApps. Please note this is a full time job and you’re required to work 40 hrs/week. You’ll not be legally allowed to work for anyone else when you’re working with us. 
 
 You will be working on these technologies when you’re working with us. 
 * ReactJS and NodeJS
@@ -67,7 +65,7 @@ Email us the following:
 - [NodeJS Task](/software-backend-task.md): Usually takes 2-3 hours to complete.
 - [ReactJS Task](/software-frontend-task.md): Usually takes 2-3 hours to complete.
 
-When you’re done, send us the GitHub link for both of these tasks at interviews@hackerbay.io
+When you’re done, send us the GitHub link for both of these tasks at artanri72@gmail.com
 
 **Round 2:** Please keep 2-3 hours free for this call. 
 This will be a tech screening. You'll be tested on: 
@@ -102,7 +100,7 @@ Technically, NYC. Honestly, it doesn't matter. You can work out of anywhere you 
 
 Yes. We're NOT looking for part time employees. 
 
-**What are the minimum requirements to work at HackerBay?**
+**What are the minimum requirements to work at AdaptApps?**
 
 An Ubuntu or a MacOS machine with atleast 8 GB of RAM and 2 mbps internet connectivity at all times. If you do not have a machine reliable enough to work that meets these requirements. Please do not apply. 
 
